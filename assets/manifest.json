@@ -1,32 +1,158 @@
 {
  "format": "chengzi-assets/1",
- "updatedAt": 1792047649876,
- "rev": 4,
+ "updatedAt": 1792051716708,
+ "rev": 5,
  "counts": {
-  "words": 2,
-  "levels": 0,
-  "shop": 1
+  "words": 14,
+  "levels": 5,
+  "shop": 3
  },
  "words": [
   {
-   "id": "w_1792045280323_243",
-   "word": "police station",
-   "img": "images/w_1792045280323_243.7b08a3a24d6e252c.png"
+   "id": "w_100",
+   "word": "apple",
+   "img": "🍎"
   },
   {
-   "id": "w_1792045306404_796",
-   "word": "fire station",
-   "img": "images/w_1792045306404_796.cb25285f4fba3a1f.png"
+   "id": "w_101",
+   "word": "banana",
+   "img": "🍌"
+  },
+  {
+   "id": "w_102",
+   "word": "orange",
+   "img": "🍊"
+  },
+  {
+   "id": "w_103",
+   "word": "grape",
+   "img": "🍇"
+  },
+  {
+   "id": "w_104",
+   "word": "cat",
+   "img": "🐱"
+  },
+  {
+   "id": "w_105",
+   "word": "dog",
+   "img": "🐶"
+  },
+  {
+   "id": "w_106",
+   "word": "fish",
+   "img": "🐟"
+  },
+  {
+   "id": "w_107",
+   "word": "bird",
+   "img": "🐦"
+  },
+  {
+   "id": "w_108",
+   "word": "red",
+   "img": "🔴"
+  },
+  {
+   "id": "w_109",
+   "word": "blue",
+   "img": "🔵"
+  },
+  {
+   "id": "w_110",
+   "word": "yellow",
+   "img": "🟡"
+  },
+  {
+   "id": "w_111",
+   "word": "green",
+   "img": "🟢"
+  },
+  {
+   "id": "w_1790769088968_104",
+   "word": "shorts",
+   "img": "images/w_1790769088968_104.74ed293f0363f52b.png"
+  },
+  {
+   "id": "w_1790769088968_223",
+   "word": "t-shirt",
+   "img": "images/w_1790769088968_223.f71c46611d461be5.png"
   }
  ],
- "levels": [],
+ "levels": [
+  {
+   "id": "l_100",
+   "name": "水果篇",
+   "icon": "🍓",
+   "wordIds": [
+    "w_100",
+    "w_101",
+    "w_102",
+    "w_103"
+   ],
+   "order": 0
+  },
+  {
+   "id": "l_101",
+   "name": "动物篇",
+   "icon": "🐾",
+   "wordIds": [
+    "w_104",
+    "w_105",
+    "w_106",
+    "w_107"
+   ],
+   "order": 1
+  },
+  {
+   "id": "l_102",
+   "name": "颜色篇",
+   "icon": "🌈",
+   "wordIds": [
+    "w_108",
+    "w_109",
+    "w_110",
+    "w_111"
+   ],
+   "order": 2
+  },
+  {
+   "id": "l_1790769127886_298",
+   "name": "衣物",
+   "icon": "📦",
+   "wordIds": [
+    "w_1790769088968_104",
+    "w_1790769088968_223"
+   ],
+   "order": 3
+  },
+  {
+   "id": "l_1792050978815_220",
+   "name": "场所",
+   "icon": "🏠",
+   "wordIds": [],
+   "order": 4
+  }
+ ],
  "shop": {
   "items": [
    {
-    "id": "s_1792042989529_231",
-    "name": "蜘蛛侠发射器",
-    "img": "images/s_1792042989529_231.6d4fec07216e209d.jpg",
-    "price": 150
+    "id": "s_1",
+    "name": "小饼干",
+    "img": "🍪",
+    "price": 10
+   },
+   {
+    "id": "s_2",
+    "name": "贴纸",
+    "img": "🌟",
+    "price": 15
+   },
+   {
+    "id": "s_3",
+    "name": "小玩具",
+    "img": "🧸",
+    "price": 30
    }
   ]
  }
