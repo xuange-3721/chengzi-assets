@@ -1,0 +1,22 @@
+{
+ "format": "chengzi-assets/1",
+ "updatedAt": 1792043240163,
+ "rev": 1,
+ "counts": {
+  "words": 0,
+  "levels": 0,
+  "shop": 1
+ },
+ "words": [],
+ "levels": [],
+ "shop": {
+  "items": [
+   {
+    "id": "s_1792042989529_231",
+    "name": "蜘蛛侠发射器",
+    "img": "images/s_1792042989529_231.6d4fec07216e209d.jpg",
+    "price": 150
+   }
+  ]
+ }
+}
