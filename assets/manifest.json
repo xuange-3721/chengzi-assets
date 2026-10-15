@@ -1,13 +1,24 @@
 {
  "format": "chengzi-assets/1",
- "updatedAt": 1792043240163,
- "rev": 1,
+ "updatedAt": 1792047610186,
+ "rev": 2,
  "counts": {
-  "words": 0,
+  "words": 2,
   "levels": 0,
   "shop": 1
  },
- "words": [],
+ "words": [
+  {
+   "id": "w_1792045280323_243",
+   "word": "police station",
+   "img": "images/w_1792045280323_243.7b08a3a24d6e252c.png"
+  },
+  {
+   "id": "w_1792045306404_796",
+   "word": "fire station",
+   "img": "images/w_1792045306404_796.cb25285f4fba3a1f.png"
+  }
+ ],
  "levels": [],
  "shop": {
   "items": [
